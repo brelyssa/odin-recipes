@@ -1,4 +1,31 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+}
+
 h1 {
     font-weight: bold;
     text-align: center;
+}
+
+.content {
+    margin: 100px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.recipelist {
+    border: 8px auto;
+}
+
+
+.recipeurls {
+    width: 300px;
+    background: #fff;
+    margin: 24px auto;
+    padding: 8px;
+    text-align: center;
+    font-size: 24px;
+    font-style: bold;
+    border-style: groove;
 }
